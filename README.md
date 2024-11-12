@@ -2,7 +2,7 @@
 - 👀 I’m interested in DS
 - 🌱 I’m currently learning JS
 
-- 📫 How to reach me @jaisaivalasa dm on insta
+- 📫 How to reach me: @jaisaivalasa dm on insta
 - 😄 Pronouns:he/him
 
 <!---
