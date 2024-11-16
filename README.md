@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Jaisai
-- 👀 I’m interested in DS
-- 🌱 I’m currently learning JS
+<h1 align="center">Hi 👋, I'm Jaisai Valasa</h1>
+<h3 align="center">A passionate Data Science Undergrad from India</h3>
 
-- 📫 How to reach me: @jaisaivalasa dm on insta
-- 😄 Pronouns:he/him
+- 🔭 I’m currently working on **JS**
 
-<!---
-Lelouch0203/Lelouch0203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🤝 I’m looking for help with **DSA**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
