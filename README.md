@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaisai Valasa</h1>
 <h3 align="center">A passionate Data Science Undergrad from India</h3>
 
-- 🔭 I’m currently working on **JS**
+- 🔭 I’m currently working on **Python**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
